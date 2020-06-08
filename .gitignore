@@ -1,0 +1,13 @@
+
+.vs/csgo-cheat/v16/.suo
+*.db
+csgo-cheat-base-master/.vs/csgo-cheat/v16/.suo
+*.opendb
+*.ipch
+*.obj
+*.log
+*.tlog
+*.dll
+*.ilk
+*.pdb
+*.txt

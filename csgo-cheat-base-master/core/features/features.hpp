@@ -1,6 +1,6 @@
 #pragma once
 #include "../../dependencies/common_includes.hpp"
-#include "../menu/variables.hpp"
+#include "../novoMenu/variables.hpp"
 
 namespace misc {
 	namespace movement {

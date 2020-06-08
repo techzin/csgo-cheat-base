@@ -2,7 +2,7 @@
 #include "../../dependencies/common_includes.hpp"
 #include "../features/features.hpp"
 #include "../features/misc/engine_prediction.hpp"
-#include "../menu/menu.hpp"
+#include "../novoMenu/novomenu.h"
 
 /*how to get entity:
 
@@ -94,8 +94,8 @@ void __stdcall hooks::paint_traverse::hook(unsigned int panel, bool force_repain
 		
 		render::draw_text_string(10, 10, render::fonts::watermark_font, "csgo-cheat", false, color::white(255));
 
-		menu::toggle();
-		menu::render();
+		novomenu::toggle();
+		novomenu::render();
 
 		break;
 

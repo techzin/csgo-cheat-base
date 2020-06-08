@@ -44,8 +44,8 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <IncludePath>$(IncludePath)</IncludePath>
-    <LibraryPath>$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Users\techp\Documents\GitHub\Private\csgo-cheat-base\csgo-cheat-base-master;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\techp\Documents\GitHub\Private\csgo-cheat-base\csgo-cheat-base-master;$(LibraryPath)</LibraryPath>
     <OutDir>.\output\debug\</OutDir>
     <IntDir>.\intermediates\</IntDir>
   </PropertyGroup>
